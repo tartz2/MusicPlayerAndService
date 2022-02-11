@@ -1,0 +1,4 @@
+#Fri Feb 11 15:38:15 CST 2022
+base.0=C\:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

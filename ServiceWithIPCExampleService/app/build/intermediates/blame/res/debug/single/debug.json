@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleService\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

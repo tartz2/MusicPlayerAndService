@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\52e113cadaae9e5e4ee606b8e2077c68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a3fcb2eab381dfe7f52611c4bfc0f45a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b51c15d4d23e80f9699f0fb41d728a06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\12072071b436c4109a1552a52b305a9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f1026f05ae49e4e44c1e3b1fc84d3925\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18301a9fffedbbf9d552b64df48b0954\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\007bfa93f8937e331b94923bdcea640a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8621df8d3cf4406ca737cad924444eea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d8b0ace391e64abbc3c371d2c120f6e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ad4b2b2df3ec2c9ccae796f15143d67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3808d18783c677974825bc729a2704b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f028473de98f47c0401f5888c2425e37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b5cbdc90fe091df903a55cbde8eea713\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7c6113dd600e4b4bf0d09de19fba2695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb704eba9d416907ffed1cedfa5059cb\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b65cd6282aae2e68689686ad9998f922\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad7161b8976fdf284f22fa03f9c5fb15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0a40f87b04b8d8e4c65001a74c39909c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\44a464b839c7913ac8b4cfa1ba52451c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\05847e510cce942fee9251e9d29d734c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06e98fc66118a8c23d1d7c05a68ce7e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c97a1fb0eed2b917e27d5f6e2190a8f8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+queries
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:7:5-9:15
+package
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:8:9-70
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:8:18-68
+uses-permission#course.examples.Services.KeyService.GEN_ID
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:11:22-79
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:14:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb704eba9d416907ffed1cedfa5059cb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb704eba9d416907ffed1cedfa5059cb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:22:18-91
+	android:icon
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:15:9-36
+activity#course.examples.Services.KeyClient.KeyServiceUser
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:18:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\52e113cadaae9e5e4ee606b8e2077c68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\52e113cadaae9e5e4ee606b8e2077c68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a3fcb2eab381dfe7f52611c4bfc0f45a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a3fcb2eab381dfe7f52611c4bfc0f45a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b51c15d4d23e80f9699f0fb41d728a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b51c15d4d23e80f9699f0fb41d728a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\12072071b436c4109a1552a52b305a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\12072071b436c4109a1552a52b305a9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f1026f05ae49e4e44c1e3b1fc84d3925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f1026f05ae49e4e44c1e3b1fc84d3925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18301a9fffedbbf9d552b64df48b0954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18301a9fffedbbf9d552b64df48b0954\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\007bfa93f8937e331b94923bdcea640a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\007bfa93f8937e331b94923bdcea640a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8621df8d3cf4406ca737cad924444eea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\8621df8d3cf4406ca737cad924444eea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d8b0ace391e64abbc3c371d2c120f6e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\d8b0ace391e64abbc3c371d2c120f6e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ad4b2b2df3ec2c9ccae796f15143d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ad4b2b2df3ec2c9ccae796f15143d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3808d18783c677974825bc729a2704b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3808d18783c677974825bc729a2704b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ca42e973a13b25ec5c644cc9152f0f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f028473de98f47c0401f5888c2425e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f028473de98f47c0401f5888c2425e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b5cbdc90fe091df903a55cbde8eea713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b5cbdc90fe091df903a55cbde8eea713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7c6113dd600e4b4bf0d09de19fba2695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7c6113dd600e4b4bf0d09de19fba2695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb704eba9d416907ffed1cedfa5059cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb704eba9d416907ffed1cedfa5059cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b65cd6282aae2e68689686ad9998f922\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b65cd6282aae2e68689686ad9998f922\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad7161b8976fdf284f22fa03f9c5fb15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad7161b8976fdf284f22fa03f9c5fb15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0a40f87b04b8d8e4c65001a74c39909c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0a40f87b04b8d8e4c65001a74c39909c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\44a464b839c7913ac8b4cfa1ba52451c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\44a464b839c7913ac8b4cfa1ba52451c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\05847e510cce942fee9251e9d29d734c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\05847e510cce942fee9251e9d29d734c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06e98fc66118a8c23d1d7c05a68ce7e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\06e98fc66118a8c23d1d7c05a68ce7e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c97a1fb0eed2b917e27d5f6e2190a8f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Thomas Artz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c97a1fb0eed2b917e27d5f6e2190a8f8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Thomas Artz\Documents\UIC\Summer 2021\CS 478\ServiceWithIPCExampleClient\app\src\main\AndroidManifest.xml

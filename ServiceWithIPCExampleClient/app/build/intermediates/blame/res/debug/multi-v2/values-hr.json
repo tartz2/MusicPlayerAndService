@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Thomas Artz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ca42e973a13b25ec5c644cc9152f0f48\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

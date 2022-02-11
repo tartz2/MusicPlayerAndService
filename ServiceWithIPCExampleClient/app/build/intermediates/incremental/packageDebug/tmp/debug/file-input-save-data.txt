@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 05 19:04:39 CDT 2021
+0.base=C\:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=C\:\\Users\\Thomas Artz\\Documents\\UIC\\Summer 2021\\CS 478\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.set=DEX
